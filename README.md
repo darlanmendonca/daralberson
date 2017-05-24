@@ -1,4 +1,4 @@
-a faker for ugly nanes
+a faker for ugly names
 
 to use, run
 
